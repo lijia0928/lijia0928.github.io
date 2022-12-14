@@ -23,7 +23,7 @@
   background: transparent !important;
 }
 
-/* �����������Ϣ��Ƭ��̬����ɫ */
+/* �����������Ϣ��Ƭ��̬����ɫ 
 #aside-content > .card-widget.card-info {
   background: linear-gradient(
     -45deg,
@@ -73,7 +73,7 @@
     background-position: 0% 50%;
   }
 }
-
+*/
 /* ��ҹģʽ���� */
 [data-theme="dark"] #aside-content > .card-widget.card-info {
   background: #191919ee;
