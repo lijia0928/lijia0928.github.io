@@ -1,7 +1,8 @@
 @font-face {
     font-family: "font";
     /* Project id 3828427 */
-    src: url('font.woff2?t=1671112212235') format('woff2'), url('font.woff?t=1671112212235') format('woff'), url('font.ttf?t=1671112212235') format('truetype');
+    /* Color fonts */
+    src: url('font.woff2?t=1671170161723') format('woff2'), url('font.woff?t=1671170161723') format('woff'), url('font.ttf?t=1671170161723') format('truetype');
 }
 
 .font {
@@ -12,12 +13,52 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-sousuotianchong:before {
-    content: "\e694";
+.icon-xihuan:before {
+    content: "\e60e";
 }
 
-.icon-qq-copy:before {
-    content: "\e657";
+.icon-gengduo:before {
+    content: "\e610";
+}
+
+.icon-biaoqian1:before {
+    content: "\e65b";
+}
+
+.icon-lianjie:before {
+    content: "\e668";
+}
+
+.icon-youjian:before {
+    font-size: 25px;
+    content: "\e63a";
+}
+
+.icon-liuyanban:before {
+    font-size: 25px;
+    content: "\e61b";
+}
+
+.icon-youjian1:before {
+    content: "\e707";
+}
+
+.icon-shenghuo1:before {
+    font-size: 25px;
+    content: "\e75a";
+}
+
+.icon-fenlei2:before {
+    content: "\e633";
+}
+
+.icon-tongji:before {
+    font-size: 25px;
+    content: "\e608";
+}
+
+.icon-sousuotianchong:before {
+    content: "\e694";
 }
 
 .icon-GitHub:before {
@@ -32,11 +73,8 @@
     content: "\e64b";
 }
 
-.icon-qq:before {
-    content: "\e680";
-}
-
 .icon-weixin:before {
+    font-size: 25px;
     content: "\e637";
 }
 
@@ -45,31 +83,17 @@
 }
 
 .icon-QQkongjian:before {
+    font-size: 25px;
     content: "\e666";
 }
 
 .icon-QQ:before {
+    font-size: 25px;
     content: "\e667";
-}
-
-.icon-weixin1:before {
-    content: "\e630";
 }
 
 .icon-liuyan-:before {
     content: "\e60c";
-}
-
-.icon-guanyu:before {
-    content: "\e60d";
-}
-
-.icon-fenlei1:before {
-    content: "\e757";
-}
-
-.icon-youxiangpeizhi:before {
-    content: "\e600";
 }
 
 .icon-weixin2:before {
@@ -85,11 +109,8 @@
 }
 
 .icon-shenghuo:before {
+    font-size: 30px;
     content: "\f2b8";
-}
-
-.icon-youqinglianjie1:before {
-    content: "\e614";
 }
 
 .icon-bilibili:before {
