@@ -14,6 +14,7 @@
 }
 
 .icon-xihuan:before {
+    font-size: 25px;
     content: "\e60e";
 }
 
